@@ -1,4 +1,4 @@
-## Travelling Europe
+## Travelled all of Europe
 
 ![Travelling Europe](mapofeurope.jpg)
 
