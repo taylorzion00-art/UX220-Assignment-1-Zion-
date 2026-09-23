@@ -13,7 +13,7 @@ Marking
 
 |Item|Marks|
 |--|--|
-|Family + image|2|
+|Travelling Europe + image|2|
 |Career Goals + image|2|
 |New House + image|2|
 |Cool Cars + image|2|
