@@ -1,1 +1,1 @@
-## I now own a Mercedes GT Black Series
+## I now own my dream car the Mercedes GT Black Series
