@@ -13,10 +13,10 @@ Marking
 
 |Item|Marks|
 |--|--|
-|Category 1 + image|2|
-|Category 2 + image|2|
-|Category 3 + image|2|
-|Category 4 + image|2|
+|Family + image|2|
+|Career Goals + image|2|
+|New House + image|2|
+|Cool Cars + image|2|
 |Educational goals and citations|2|
 |total|10|
 
