@@ -3,3 +3,7 @@ The main goals i've set for myself include staying on top of my assignments and 
 
 
 ## Work Cited 
+
+Goal setting and student achievement: A longitudinal study. Goal Setting and Student Achievement: A Longitudinal Study. (2012, July). https://www.jstor.org/stable/41684067 
+
+Chang, C.-C., Liang, C., Chou, P.-N., & Liao, Y.-M. (2018, December 1). Using e-portfolio for learning goal setting to facilitate self-regulated learning of high school students. Behaviour & Information Technology. https://research.ebsco.com/plink/abc10a2f-01dc-3862-ac02-587a54b0b90d 
